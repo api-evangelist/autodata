@@ -1,0 +1,80 @@
+{
+    "name": "Autodata",
+    "description": "Autodata is a trusted world leading supplier of technical information to the automotive aftermarket, covering 8,000 motorcycle models from 65 manufacturers worldwide.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28339-developer-autodata-group-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/autodata\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Autodata",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28339-developer-autodata-group-com.jpg",
+            "humanURL": "http:\/\/www.autodata-group.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/autodata-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.autodata-group.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/autodata"
+        },
+        {
+            "type": "Email",
+            "url": "20customersupport@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "customersupport@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "aussales@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "nordics@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "frenchsales@autodata-group.com"
+        },
+        {
+            "type": "Email",
+            "url": "service-commercial@autodata-group.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Autodata_Group"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.autodata-group.com"
+        }
+    ]
+}
